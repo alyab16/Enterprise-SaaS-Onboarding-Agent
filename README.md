@@ -1,4 +1,4 @@
-# Enterprise Onboarding Agent
+# Enterprise SaaS Onboarding Agent
 
 An AI-powered customer onboarding automation agent built with **Pydantic AI + FastMCP**, demonstrating how autonomous agents can streamline enterprise SaaS onboarding workflows using native tool calling.
 
